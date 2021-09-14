@@ -12,7 +12,10 @@ I'm Mahesh, graduated as Electronics & Communication Engineer from Visveswaraya 
 Python/ JS / HTML / CSS
 
 ### promo
-<img src ='https://youtu.be/w0DviFEjEHM' width ="256"/>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="http://img.youtube.com/vi/https://youtu.be/w0DviFEjEHM/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
            
 - 🔭 I’m currently working on Python Coding 
 - 🌱 I’m currently learning Python Full Stack Developer Course 
