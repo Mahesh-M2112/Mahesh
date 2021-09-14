@@ -12,11 +12,11 @@ I'm Mahesh, graduated as Electronics & Communication Engineer from Visveswaraya 
 Python/ JS / HTML / CSS
 
 ### Certifications
-*1.[Internship Certificate at BSNL Telecom Ltd, Kolar](https://drive.google.com/file/d/1RmgWT6TaNXoIfOJZFMeiSLJjpSy84SUF/view?usp=drivesdk "View Internship Certificate")
-*2.[Basic Aurdino UNO step by step course Certificate ](https://drive.google.com/file/d/1RnmhU-So4saGcEpMu4Y-mckmucCKBXK0/view?usp=drivesdk "View Course Certificate")
-*3.[Basic Techniques And Applications of MATLAB Workshop](https://drive.google.com/file/d/1S-l-6zGLatiRpPA5KuSAMpeuf5A1M3O_/view?usp=drivesdk "View Workshop Certificate")
-*4.[Painting Adya Course at  CHITRA SRUSHTI (ARTISIAN) Varna Kala Trust(Regd.), kolar-563 101](https://drive.google.com/file/d/1S6grBsEOekkCrORbTQkH0kcD7jetnidw/view?usp=drivesdk "View Painting Course Certificate")
-*5.[Gold medalist in International Child’s Art Competition ](https://drive.google.com/file/d/1SCCoBEahP7IQ04am4CpmxGIt8xYzZ0n9/view?usp=drivesdk "View Certificate")
+* 1.[Internship Certificate at BSNL Telecom Ltd, Kolar](https://drive.google.com/file/d/1RmgWT6TaNXoIfOJZFMeiSLJjpSy84SUF/view?usp=drivesdk "View Internship Certificate")
+* 2.[Basic Aurdino UNO step by step course Certificate ](https://drive.google.com/file/d/1RnmhU-So4saGcEpMu4Y-mckmucCKBXK0/view?usp=drivesdk "View Course Certificate")
+* 3.[Basic Techniques And Applications of MATLAB Workshop](https://drive.google.com/file/d/1S-l-6zGLatiRpPA5KuSAMpeuf5A1M3O_/view?usp=drivesdk "View Workshop Certificate")
+* 4.[Painting Adya Course at  CHITRA SRUSHTI (ARTISIAN) Varna Kala Trust(Regd.), kolar-563 101](https://drive.google.com/file/d/1S6grBsEOekkCrORbTQkH0kcD7jetnidw/view?usp=drivesdk "View Painting Course Certificate")
+* 5.[Gold medalist in International Child’s Art Competition ](https://drive.google.com/file/d/1SCCoBEahP7IQ04am4CpmxGIt8xYzZ0n9/view?usp=drivesdk "View Certificate")
 
 
 ### Promo
