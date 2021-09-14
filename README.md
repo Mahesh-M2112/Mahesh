@@ -2,13 +2,14 @@
 
 I'm Mahesh, graduated as Electronics & Communication Engineer from Visveswaraya Technological University in 2021 and also pursuing my course on Python full stack development
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahesh-M)](https://github.com/anuraghazra/github-readme-stats)
-### Hi there 👋, Mahesh M
+### Hi there 👋, Mahesh M Here
 ####  EC Engineer
 
 
 I'm Mahesh, graduated as Electronics & Communication Engineer from Visveswaraya Technological University in 2021 and also pursuing my course on Python full stack development 
 
-Skills: Python/ JS / HTML / CSS
+### Skills
+Python/ JS / HTML / CSS
 
 - 🔭 I’m currently working on Python Coding 
 - 🌱 I’m currently learning Python Full Stack Developer Course 
