@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Python Coding 
 - 🌱 I’m currently learning Python Full Stack Developer Course 
 - 📫 How to reach me: aadhityamahesh2112@gmail.com 
-*I'm Mahesh, graduated as Electronics & Communication Engineer from Visveswaraya Technological University in 2021 and also pursuing my course on Python full stack development
+- I'm Mahesh, graduated as Electronics & Communication Engineer from Visveswaraya Technological University in 2021 and also pursuing my course on Python full stack development
 # Objectives
 * To work for an organization which provides me the opportunity to gain new experience and to utilize my interpersonal skills & make significant contribution to the success of the employer and growth along with organization objective.
 
