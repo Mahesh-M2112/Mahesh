@@ -1,6 +1,7 @@
-# Hey There!!!
+# Hey There!!!Know Me:-)
+# Objectives
+* To work for an organization which provides me the opportunity to gain new experience and to utilize my interpersonal skills & make significant contribution to the success of the employer and growth along with organization objective.
 
-I'm Mahesh, graduated as Electronics & Communication Engineer from Visveswaraya Technological University in 2021 and also pursuing my course on Python full stack development
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahesh-M)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi there 👋, Mahesh M Here
 ####  EC Engineer
