@@ -12,7 +12,9 @@ I'm Mahesh, graduated as Electronics & Communication Engineer from Visveswaraya 
 Python/ JS / HTML / CSS
 
 ### promo
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/https://youtube.com/channel/UC43YdL-8JzmyEY1KCw3wv3g.jpg)](http://www.youtube.com/watch?v=https://youtube.com/channel/UC43YdL-8JzmyEY1KCw3wv3g)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=w0DviFEjEHM
+" target="_blank"><img src="http://img.youtube.com/vi/w0DviFEjEHM/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
            
