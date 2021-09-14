@@ -11,6 +11,9 @@ I'm Mahesh, graduated as Electronics & Communication Engineer from Visveswaraya 
 ### Skills
 Python/ JS / HTML / CSS
 
+### promo
+<img src ='https://youtu.be/w0DviFEjEHM' width ="256"/>
+           
 - 🔭 I’m currently working on Python Coding 
 - 🌱 I’m currently learning Python Full Stack Developer Course 
 - 📫 How to reach me: aadhityamahesh2112@gmail.com 
