@@ -1,7 +1,10 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahesh-M)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi there 👋, Mahesh M Here
 ####  EC Engineer
-I'm Mahesh, graduated as Electronics & Communication Engineer from Visveswaraya Technological University in 2021 and also pursuing my course on Python full stack development
+- 🔭 I’m currently working on Python Coding 
+- 🌱 I’m currently learning Python Full Stack Developer Course 
+- 📫 How to reach me: aadhityamahesh2112@gmail.com 
+* I'm Mahesh, graduated as Electronics & Communication Engineer from Visveswaraya Technological University in 2021 and also pursuing my course on Python full stack development
 # Objectives
 * To work for an organization which provides me the opportunity to gain new experience and to utilize my interpersonal skills & make significant contribution to the success of the employer and growth along with organization objective.
 
@@ -20,20 +23,21 @@ Python/ JS / HTML / CSS
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=w0DviFEjEHM
 " target="_blank"><img src="http://img.youtube.com/vi/w0DviFEjEHM/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
-
-           
-- 🔭 I’m currently working on Python Coding 
-- 🌱 I’m currently learning Python Full Stack Developer Course 
-- 📫 How to reach me: aadhityamahesh2112@gmail.com 
-
-
+        
+# social
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mahesh-M2112)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mahesh-m-300204169/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/it_s__m_e___a_a_d_h_i//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://youtube.com/channel/UC43YdL-8JzmyEY1KCw3wv3g)  
 
 ## Achievements and Awards
-•	 Awarded for excellent contribution towards academics.
-•	Consistently identified for developing good leadership and team management skills.
-•	Worked as Class Representative for the term of 4 years in UG course and for the term of 2 years in PUC & worked as School Head boy in my High School.
-•	Awarded for exceptional contribution as a volunteer at NSS camps and Coordinator for few programs organized at the college Level.
-•	Received many regional level, state and national level awards in art and other competitions.
+* Awarded for excellent contribution towards academics.
+* Consistently identified for developing good leadership and team management skills.
+* Worked as Class Representative for the term of 4 years in UG course and for the term of 2 years in PUC & worked as School Head boy in my High School.
+* Awarded for exceptional contribution as a volunteer at NSS camps and Coordinator for few programs organized at the college Level.
+* Received many regional level, state and national level awards in art and other competitions.
+
+# Hobbies
+* Traditional wall Paintings 
+* Paintings 
+* Pencil sketching 
+* Art works 
+* Creative Idol Decorations and Paintings
 
